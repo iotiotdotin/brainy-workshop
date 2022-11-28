@@ -1,1 +1,1 @@
-# brainy-workshop
+# Brainy Workshop
